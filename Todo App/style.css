@@ -1,0 +1,104 @@
+body {
+  background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.todo-card {
+  background: #fff;
+  width: 100%;
+  max-width: 450px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  padding: 25px 20px;
+}
+
+.todo-header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.todo-header h2 {
+  font-weight: 600;
+  color: #6a11cb;
+}
+
+.add-btn {
+  background-color: #aa92d4;
+}
+
+.add-btn:hover {
+  color: white;
+  background-color: #6a11cb;
+}
+
+.input-group input {
+  border-radius: 10px 0 0 10px !important;
+}
+
+.input-group button {
+  border-radius: 0 10px 10px 0 !important;
+}
+
+.task-list {
+  margin-top: 20px;
+}
+
+.task-item {
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.3s;
+}
+
+.task-item:hover {
+  background: #e8e8e8;
+}
+
+.task-text {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.task-btns button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.task-btns button i {
+  font-size: 18px;
+  color: #6a11cb;
+  transition: 0.2s;
+}
+
+.task-btns button i:hover {
+  color: #a4508b;
+}
+
+.empty-text {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+  font-size: 0.9rem;
+}
+
+/* 🔧 Fix focus borders */
+.form-control:focus {
+  outline: none !important;
+  box-shadow: 0 0 5px #a18cd1 !important;
+  border-color: #a18cd1 !important;
+}
+
+.edit-btn:focus,
+.delete-btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
