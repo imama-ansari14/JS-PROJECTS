@@ -2,10 +2,8 @@
 
 A collection of practical learning of Javascript by building **JavaScript Projects** using **HTML, CSS, Bootstrap, and Vanilla JavaScript (ES6+)**.  
 This repository includes:
-
 - 🍽️ **Recipe Finder App**  
 - 📝 **Todo App**  
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge" />
@@ -69,16 +67,11 @@ A clean and simple task manager to organize your daily tasks.
 <p align="center">
 
 ✨ **Recipe Finder App**  
-🔗 Live Demo: [Click Here](food-recipes-finder-project.netlify.app/ )
-
+🔗 Live Demo: [Click Here](https://food-recipes-finder-project.netlify.app/)
 <br>
-
 ✨ **Todo App**  
-🔗 Live Demo: [Click Here](https://todo-application-javascript.netlify.app/
-)
-
+🔗 Live Demo: [Click Here](https://todo-application-javascript.netlify.app/)
 </p>
-
 ---
 <h1 align="center">💡 About the Developer</h1>
 Hi! I’m **Imama Ansari**, a passionate Frontend Web Developer who loves turning designs into reality. I enjoy learning and creating functional, responsive web applications.
