@@ -15,12 +15,10 @@ This repository includes:
 
 ---
 <h1 align="center">🍽️ Recipe Finder App</h1>
-
-
 A dynamic web app to search recipes by ingredients using a public API.
 
-### ✨ Features
 
+### ✨ Features
 - 🔍 **Search Recipes by Ingredient**
 - 🌐 **Fetch Real Recipes Using API**
 - 🍲 **View Full Details in Modal (Name, Image, Category, Instructions)**
@@ -38,7 +36,6 @@ A dynamic web app to search recipes by ingredients using a public API.
 A clean and simple task manager to organize your daily tasks.
 
 ### ✨ Features
-
 - ➕ **Add New Tasks**
 - ✏️ **Edit Existing Tasks**
 - ✔️ **Mark Tasks as Completed**
@@ -52,9 +49,6 @@ A clean and simple task manager to organize your daily tasks.
 - JavaScript Conditionals & Arrays  
 
 ---
-
-
-
 <h1 align="center">📸 Screenshots</h1>
 
 ### 🍽️ Recipe Finder App
@@ -74,24 +68,18 @@ A clean and simple task manager to organize your daily tasks.
 <p align="center">
 
 ✨ **Recipe Finder App**  
-🔗 Live Demo: [Click Here](YOUR_LIVE_LINK_HERE)
+🔗 Live Demo: [Click Here](food-recipes-finder-project.netlify.app/ )
 
 <br>
 
 ✨ **Todo App**  
-🔗 Live Demo: [Click Here](YOUR_LIVE_LINK_HERE)
+🔗 Live Demo: [Click Here](https://todo-application-javascript.netlify.app/
+)
 
 </p>
 
 ---
-
-
-
-
-
-
-
- <h1 align="center">💡 About the Developer</h1>
+<h1 align="center">💡 About the Developer</h1>
 Hi! I’m **Imama Ansari**, a passionate Frontend Web Developer who loves turning designs into reality. I enjoy learning and creating functional, responsive web applications.
 
 📫 **Contact Me:**
