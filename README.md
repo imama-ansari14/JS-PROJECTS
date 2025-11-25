@@ -54,12 +54,13 @@ A clean and simple task manager to organize your daily tasks.
 ### 🍽️ Recipe Finder App
 | Home Page | Recipe Modal |
 |----------|--------------|
-| ![Screenshot](../JS-PROJECTS/Recipe%20Finder%20App/images/home.png) | ![Screenshot](../JS-PROJECTS/Recipe%20Finder%20App/images/kunafa.png) |
+| ![Screenshot](https://raw.githubusercontent.com/imama-ansari14/JS-PROJECTS/main/Recipe%20Finder%20App/images/home.png) | ![Screenshot](https://raw.githubusercontent.com/imama-ansari14/JS-PROJECTS/main/Recipe%20Finder%20App/images/kunafa.png) |
 
 ### 📝 Todo App
 | Todo List | After Tasks |
 |----------|--------------|
-| ![Screenshot](../JS-PROJECTS/Todo%20App/images/home.png) | ![Screenshot](../JS-PROJECTS/Todo%20App/images/todos.png) |
+| ![Screenshot](https://raw.githubusercontent.com/imama-ansari14/JS-PROJECTS/main/Todo%20App/images/home.png) | ![Screenshot](https://raw.githubusercontent.com/imama-ansari14/JS-PROJECTS/main/Todo%20App/images/todos.png) |
+
 
 ---
 
